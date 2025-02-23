@@ -7,6 +7,7 @@ I'm Priyanshu Verma - I create—code, games, videos, music, and stories. Indie 
 [![Social X.com](https://skillicons.dev/icons?i=twitter)](https://x.com/PriyanshuPz)
 [![Social Blog](https://skillicons.dev/icons?i=md)](https://priyanshupz.github.io/blog/)
 
+[![wakatime](https://wakatime.com/badge/user/a4c237dc-fe02-47f0-97b5-c25292afe1cf.svg)](https://wakatime.com/@a4c237dc-fe02-47f0-97b5-c25292afe1cf)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Partying%20Face.webp" alt="Partying Face" width="30" height="30" /> Coding Streak & GitHub Stats
 
