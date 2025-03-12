@@ -21,7 +21,7 @@ I'm Priyanshu Verma - I create—code, games, videos, music, and stories. Indie 
       <img src="https://github-streak-stats-ruby.vercel.app/?user=priyanshupz&theme=dark&hide_border=true"  />
     </td>
     <td>
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/priyanshupz?cardType=octocat&theme=dark&preferLogin=false&hide_border=true" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/priyanshupz?cardType=octocat&theme=dark&preferLogin=false&Border=%23DD272700" />
   </a>
     </td>
   </tr>
