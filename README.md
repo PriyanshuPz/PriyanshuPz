@@ -21,8 +21,7 @@ I'm Priyanshu Verma - I create—code, games, videos, music, and stories. Indie 
       <img src="https://github-streak-stats-ruby.vercel.app/?user=priyanshupz&theme=dark&hide_border=true"  />
     </td>
     <td>
-     <a href="https://quira.sh?utm_source=widgets&utm_campaign=priyanshuverma">
-    <img src="https://stats.quira.sh/priyanshuverma/github?theme=dark" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/priyanshupz?cardType=octocat&theme=dark&preferLogin=false&hide_border=true" />
   </a>
     </td>
   </tr>
