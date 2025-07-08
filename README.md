@@ -1,13 +1,29 @@
 # Hey There! 👋
 
-I'm Priyanshu Verma - I create—code, games, videos, music, and stories. Indie hacker, content creator, and explorer of ideas. Always building, always learning.
+I'm Priyanshu Verma - I am trying to be a polymath. 
 
-[![Social Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/@priyanshuverma)
-[![Social Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/priyanshu-verma-pz)
-[![Social X.com](https://skillicons.dev/icons?i=twitter)](https://x.com/PriyanshuPz)
-[![Social Blog](https://skillicons.dev/icons?i=md)](https://priyanshupz.github.io/blog/)
+<div>
+  <a href="https://dev.to/@priyanshuverma">
+    <img src="https://skillicons.dev/icons?i=devto" alt="Social Dev.to" />
+  </a>
+  <a href="https://www.linkedin.com/in/priyanshu-verma-pz">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Social Linkedin" />
+  </a>
+  <a href="https://x.com/PriyanshuPz">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Social X.com" />
+  </a>
+  <a href="https://peerlist.io/priyanshu_verma/signup">
+    <img src="https://github.com/user-attachments/assets/4d2f820d-c277-4e3d-b159-8e8de59b6227" alt="Social Peerlist" height="48"/>
+  </a>
+<div/>
 
-[![wakatime](https://wakatime.com/badge/user/a4c237dc-fe02-47f0-97b5-c25292afe1cf.svg)](https://wakatime.com/@a4c237dc-fe02-47f0-97b5-c25292afe1cf)
+<br/>
+
+<div>  
+  <a href="https://wakatime.com/@a4c237dc-fe02-47f0-97b5-c25292afe1cf">
+    <img src="https://wakatime.com/badge/user/a4c237dc-fe02-47f0-97b5-c25292afe1cf.svg" alt="Wakatime"/>
+  </a>
+<div/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Partying%20Face.webp" alt="Partying Face" width="30" height="30" /> Coding Streak & GitHub Stats
 
