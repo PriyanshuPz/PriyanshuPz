@@ -12,8 +12,8 @@ I'm Priyanshu Verma - I am trying to be a polymath.
   <a href="https://x.com/PriyanshuPz">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Social X.com" />
   </a>
-  <a href="https://peerlist.io/priyanshu_verma/signup">
-    <img src="https://github.com/user-attachments/assets/4d2f820d-c277-4e3d-b159-8e8de59b6227" alt="Social Peerlist" height="48"/>
+  <a href="https://priyanshupz.github.io">
+    <img src="https://skillicons.dev/icons?i=obsidian" alt="Social Blog"/>
   </a>
 <div/>
 
