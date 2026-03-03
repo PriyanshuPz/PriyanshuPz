@@ -5,9 +5,6 @@ on:
     - cron: "15 */12 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   update_readme:
     runs-on: ubuntu-latest
@@ -19,14 +16,14 @@ jobs:
       - name: Update Activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MAT_TOKEN }}
         with:
           TARGET_FILE: ./TEMPLATE.md
 
       - name: Generate Stats
         uses: teoxoy/profile-readme-stats@master
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.MAT_TOKEN }}
           includeForks: true
 
       - name: Commit Changes
