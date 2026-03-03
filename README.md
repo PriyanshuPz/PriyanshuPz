@@ -2,11 +2,12 @@
 
 I joined GitHub **3** years ago. And like understanding how systems really work and turning rough thoughts into simple, usable tools.
 
-Since then, I have pushed **1918** commits, opened **241** issues, submitted **356** pull requests, received **8** stars across **55** personal projects and contributed to **40** public repositories.
+Since then, I have pushed **1919** commits, opened **241** issues, submitted **356** pull requests, received **8** stars across **55** personal projects and contributed to **40** public repositories.
 
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#24](https://github.com/PriyanshuPz/edunotify/pull/24) in [PriyanshuPz/edunotify](https://github.com/PriyanshuPz/edunotify)
 2. 🔒 Closed issue [#22](https://github.com/PriyanshuPz/edunotify/issues/22) in [PriyanshuPz/edunotify](https://github.com/PriyanshuPz/edunotify)
 3. 🔒 Closed issue [#23](https://github.com/PriyanshuPz/edunotify/issues/23) in [PriyanshuPz/edunotify](https://github.com/PriyanshuPz/edunotify)
@@ -29,7 +30,7 @@ Since then, I have pushed **1918** commits, opened **241** issues, submitted **3
   </tr>
   <tr>
     <td>
-      <img src="https://github-streak-stats-ruby.vercel.app/?user=priyanshupz&theme=dark&hide_border=true"  />
+      <img src="https://streak-stats.demolab.com/?user=priyanshupz&theme=dark&hide_border=true"  />
     </td>
     <td>
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/priyanshupz?cardType=octocat&theme=dark&preferLogin=false&Border=%23DD272700" />
