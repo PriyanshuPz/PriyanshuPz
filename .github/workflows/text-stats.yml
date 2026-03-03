@@ -2,14 +2,6 @@ name: Read Stats Text Updater
 on:
   schedule:
     - cron: "15 */12 * * *"
-  push:
-    branches:
-      - master
-      - main
-  pull_request:
-    branches:
-      - master
-      - main
   workflow_dispatch:
 jobs:
   text_stats:
