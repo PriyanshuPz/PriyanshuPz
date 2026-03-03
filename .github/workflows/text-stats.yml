@@ -1,7 +1,7 @@
 name: Read Stats Text Updater
 on:
   schedule:
-    - cron: "10 */12 * * *"
+    - cron: "15 */12 * * *"
   push:
     branches:
       - master
@@ -12,7 +12,7 @@ on:
       - main
   workflow_dispatch:
 jobs:
-  publish:
+  text_stats:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -32,3 +32,11 @@ jobs:
           git commit -m "Update README activity"
           git push
           fi
+
+  acitivity_update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.MAT_TOKEN  }}
