@@ -1,6 +1,6 @@
 # Hey There! 👋
 
-I'm Priyanshu Verma - I am trying to be a polymath. 
+I'm Priyanshu Verma - I am trying to be a polymath.
 
 <div>
   <a href="https://dev.to/@priyanshuverma">
