@@ -1,11 +1,8 @@
-### Hey!👋
+### Hey! This is Pz 👋
 
-> I joined GitHub **{{ ACCOUNT_AGE }}** years ago.
+I joined GitHub **{{ ACCOUNT_AGE }}** years ago. And like understanding how systems really work and turning rough thoughts into simple, usable tools.
 
 Since then, I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
-
-<br>
-Hey, I'm Priyanshu, I like understanding how systems really work and turning rough thoughts into simple, usable tools.
 
 <br>
 
