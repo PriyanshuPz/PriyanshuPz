@@ -20,7 +20,8 @@ jobs:
       - name: Generate README.md
         uses: teoxoy/profile-readme-stats@master
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.MAT_TOKEN }}
+        includeForks: true
       - name: Update README.md
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
