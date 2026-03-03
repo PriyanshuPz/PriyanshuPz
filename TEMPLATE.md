@@ -16,6 +16,12 @@ Hey, I'm Priyanshu, I like understanding how systems really work and turning rou
 
 ##### GitHub Stats
 
+<div>  
+  <a href="https://wakatime.com/@a4c237dc-fe02-47f0-97b5-c25292afe1cf">
+    <img src="https://wakatime.com/badge/user/a4c237dc-fe02-47f0-97b5-c25292afe1cf.svg" alt="Wakatime"/>
+  </a>
+<div/>
+
 <table>
   <tr>
     <th>Coding Streak</th>
