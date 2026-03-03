@@ -21,7 +21,7 @@ jobs:
         uses: teoxoy/profile-readme-stats@master
         with:
           token: ${{ secrets.MAT_TOKEN }}
-        includeForks: true
+          includeForks: true
       - name: Update README.md
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
