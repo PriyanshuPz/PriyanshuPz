@@ -26,6 +26,7 @@ jobs:
           fi
 
   acitivity_update:
+    needs: text_stats
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
