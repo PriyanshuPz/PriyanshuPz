@@ -4,14 +4,12 @@ I joined GitHub **{{ ACCOUNT_AGE }}** years ago. And like understanding how syst
 
 Since then, I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
-<br>
-
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-##### GitHub Stats
+#### GitHub Stats
 
 <div>  
   <a href="https://wakatime.com/@a4c237dc-fe02-47f0-97b5-c25292afe1cf">
