@@ -1,31 +1,26 @@
-# Hey There! 👋
+### Hey!👋
 
-I'm Priyanshu Verma - I am trying to be a polymath.
+> I joined GitHub **{{ ACCOUNT_AGE }}** years ago.
 
-<div>
-  <a href="https://dev.to/@priyanshuverma">
-    <img src="https://skillicons.dev/icons?i=devto" alt="Social Dev.to" />
-  </a>
-  <a href="https://www.linkedin.com/in/priyanshu-verma-pz">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="Social Linkedin" />
-  </a>
-  <a href="https://x.com/PriyanshuPz">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Social X.com" />
-  </a>
-  <a href="https://priyanshupz.github.io">
-    <img src="https://skillicons.dev/icons?i=obsidian" alt="Social Blog"/>
-  </a>
-<div/>
+Since then, I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
-<br/>
+<br>
+Hey, I'm Priyanshu, I like understanding how systems really work and turning rough thoughts into simple, usable tools.
+
+<br>
+
+#### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+##### GitHub Stats
 
 <div>  
   <a href="https://wakatime.com/@a4c237dc-fe02-47f0-97b5-c25292afe1cf">
     <img src="https://wakatime.com/badge/user/a4c237dc-fe02-47f0-97b5-c25292afe1cf.svg" alt="Wakatime"/>
   </a>
 <div/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Partying%20Face.webp" alt="Partying Face" width="30" height="30" /> Coding Streak & GitHub Stats
 
 <table>
   <tr>
