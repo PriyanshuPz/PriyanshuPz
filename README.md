@@ -12,6 +12,11 @@ Hey, I'm Priyanshu, I like understanding how systems really work and turning rou
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#24](https://github.com/PriyanshuPz/edunotify/pull/24) in [PriyanshuPz/edunotify](https://github.com/PriyanshuPz/edunotify)
+2. 🔒 Closed issue [#22](https://github.com/PriyanshuPz/edunotify/issues/22) in [PriyanshuPz/edunotify](https://github.com/PriyanshuPz/edunotify)
+3. 🔒 Closed issue [#23](https://github.com/PriyanshuPz/edunotify/issues/23) in [PriyanshuPz/edunotify](https://github.com/PriyanshuPz/edunotify)
+4. 💪 Opened PR [#24](https://github.com/PriyanshuPz/edunotify/pull/24) in [PriyanshuPz/edunotify](https://github.com/PriyanshuPz/edunotify)
+5. ❗ Opened issue [#23](https://github.com/PriyanshuPz/edunotify/issues/23) in [PriyanshuPz/edunotify](https://github.com/PriyanshuPz/edunotify)
 <!--END_SECTION:activity-->
 
 ##### GitHub Stats
