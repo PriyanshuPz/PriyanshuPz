@@ -8,11 +8,11 @@ Since then, I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** iss
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#24](https://github.com/PriyanshuPz/edunotify/pull/24) in [PriyanshuPz/edunotify](https://github.com/PriyanshuPz/edunotify)
-2. 🔒 Closed issue [#22](https://github.com/PriyanshuPz/edunotify/issues/22) in [PriyanshuPz/edunotify](https://github.com/PriyanshuPz/edunotify)
-3. 🔒 Closed issue [#23](https://github.com/PriyanshuPz/edunotify/issues/23) in [PriyanshuPz/edunotify](https://github.com/PriyanshuPz/edunotify)
-4. 💪 Opened PR [#24](https://github.com/PriyanshuPz/edunotify/pull/24) in [PriyanshuPz/edunotify](https://github.com/PriyanshuPz/edunotify)
-5. ❗ Opened issue [#23](https://github.com/PriyanshuPz/edunotify/issues/23) in [PriyanshuPz/edunotify](https://github.com/PriyanshuPz/edunotify)
+1. 🔒 Closed issue [#5](https://github.com/P8labs/dockless/issues/5) in [P8labs/dockless](https://github.com/P8labs/dockless)
+2. 🔒 Closed issue [#2](https://github.com/P8labs/dockless/issues/2) in [P8labs/dockless](https://github.com/P8labs/dockless)
+3. 🔒 Closed issue [#4](https://github.com/P8labs/dockless/issues/4) in [P8labs/dockless](https://github.com/P8labs/dockless)
+4. 🔒 Closed issue [#1](https://github.com/P8labs/dockless/issues/1) in [P8labs/dockless](https://github.com/P8labs/dockless)
+5. 🎉 Merged PR [#3](https://github.com/P8labs/dockless/pull/3) in [P8labs/dockless](https://github.com/P8labs/dockless)
 <!--END_SECTION:activity-->
 
 #### GitHub Stats
