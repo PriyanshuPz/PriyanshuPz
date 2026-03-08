@@ -8,11 +8,11 @@ Since then, I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** iss
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#4](https://github.com/P8labs/dxon/issues/4) in [P8labs/dxon](https://github.com/P8labs/dxon)
-2. 🎉 Merged PR [#3](https://github.com/P8labs/dxon/pull/3) in [P8labs/dxon](https://github.com/P8labs/dxon)
-3. 🔒 Closed issue [#1](https://github.com/P8labs/dxon/issues/1) in [P8labs/dxon](https://github.com/P8labs/dxon)
-4. ℹ️ Labeled PR [#3](https://github.com/P8labs/dxon/pull/3) in [P8labs/dxon](https://github.com/P8labs/dxon)
-5. 💪 Opened PR [#3](https://github.com/P8labs/dxon/pull/3) in [P8labs/dxon](https://github.com/P8labs/dxon)
+1. 🎉 Merged PR [#5](https://github.com/P8labs/dxon/pull/5) in [P8labs/dxon](https://github.com/P8labs/dxon)
+2. 🔒 Closed issue [#4](https://github.com/P8labs/dxon/issues/4) in [P8labs/dxon](https://github.com/P8labs/dxon)
+3. 🔒 Closed issue [#2](https://github.com/P8labs/dxon/issues/2) in [P8labs/dxon](https://github.com/P8labs/dxon)
+4. ℹ️ Labeled PR [#5](https://github.com/P8labs/dxon/pull/5) in [P8labs/dxon](https://github.com/P8labs/dxon)
+5. ℹ️ Labeled PR [#5](https://github.com/P8labs/dxon/pull/5) in [P8labs/dxon](https://github.com/P8labs/dxon)
 <!--END_SECTION:activity-->
 
 #### GitHub Stats
