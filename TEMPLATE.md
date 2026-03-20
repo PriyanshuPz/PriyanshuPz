@@ -8,11 +8,11 @@ Since then, I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** iss
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1](https://github.com/PriyanshuPz/piperpad/issues/1) in [PriyanshuPz/piperpad](https://github.com/PriyanshuPz/piperpad)
-2. 🔒 Closed issue [#1](https://github.com/P8labs/dxon-registry/issues/1) in [P8labs/dxon-registry](https://github.com/P8labs/dxon-registry)
-3. 🎉 Merged PR [#6](https://github.com/P8labs/dxon/pull/6) in [P8labs/dxon](https://github.com/P8labs/dxon)
-4. ℹ️ Assigned issue [#1](https://github.com/P8labs/dxon-registry/issues/1) in [P8labs/dxon-registry](https://github.com/P8labs/dxon-registry)
-5. 💪 Opened PR [#6](https://github.com/P8labs/dxon/pull/6) in [P8labs/dxon](https://github.com/P8labs/dxon)
+1. 🎉 Merged PR [#3](https://github.com/P8labs/trackion/pull/3) in [P8labs/trackion](https://github.com/P8labs/trackion)
+2. 💪 Opened PR [#3](https://github.com/P8labs/trackion/pull/3) in [P8labs/trackion](https://github.com/P8labs/trackion)
+3. 🎉 Merged PR [#2](https://github.com/P8labs/trackion/pull/2) in [P8labs/trackion](https://github.com/P8labs/trackion)
+4. 💪 Opened PR [#2](https://github.com/P8labs/trackion/pull/2) in [P8labs/trackion](https://github.com/P8labs/trackion)
+5. 🎉 Merged PR [#1](https://github.com/P8labs/trackion/pull/1) in [P8labs/trackion](https://github.com/P8labs/trackion)
 <!--END_SECTION:activity-->
 
 #### GitHub Stats
