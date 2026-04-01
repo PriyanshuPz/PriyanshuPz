@@ -8,11 +8,11 @@ Since then, I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** iss
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#9](https://github.com/P8labs/trackion/pull/9) in [P8labs/trackion](https://github.com/P8labs/trackion)
-2. 🎉 Merged PR [#52](https://github.com/P8labs/StatStream/pull/52) in [P8labs/StatStream](https://github.com/P8labs/StatStream)
-3. 💪 Opened PR [#52](https://github.com/P8labs/StatStream/pull/52) in [P8labs/StatStream](https://github.com/P8labs/StatStream)
-4. 🎉 Merged PR [#7](https://github.com/P8labs/trackion/pull/7) in [P8labs/trackion](https://github.com/P8labs/trackion)
-5. ℹ️ Labeled PR [#7](https://github.com/P8labs/trackion/pull/7) in [P8labs/trackion](https://github.com/P8labs/trackion)
+1. ❗ Opened issue [#10](https://github.com/P8labs/trackion/issues/10) in [P8labs/trackion](https://github.com/P8labs/trackion)
+2. 💪 Opened PR [#9](https://github.com/P8labs/trackion/pull/9) in [P8labs/trackion](https://github.com/P8labs/trackion)
+3. 🎉 Merged PR [#52](https://github.com/P8labs/StatStream/pull/52) in [P8labs/StatStream](https://github.com/P8labs/StatStream)
+4. 💪 Opened PR [#52](https://github.com/P8labs/StatStream/pull/52) in [P8labs/StatStream](https://github.com/P8labs/StatStream)
+5. 🎉 Merged PR [#7](https://github.com/P8labs/trackion/pull/7) in [P8labs/trackion](https://github.com/P8labs/trackion)
 <!--END_SECTION:activity-->
 
 #### GitHub Stats
