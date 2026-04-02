@@ -8,11 +8,11 @@ Since then, I have pushed **2042** commits, opened **252** issues, submitted **3
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#11](https://github.com/P8labs/trackion/pull/11) in [P8labs/trackion](https://github.com/P8labs/trackion)
-2. ℹ️ Assigned PR [#11](https://github.com/P8labs/trackion/pull/11) in [P8labs/trackion](https://github.com/P8labs/trackion)
-3. ℹ️ Assigned PR [#9](https://github.com/P8labs/trackion/pull/9) in [P8labs/trackion](https://github.com/P8labs/trackion)
-4. ❗ Opened issue [#10](https://github.com/P8labs/trackion/issues/10) in [P8labs/trackion](https://github.com/P8labs/trackion)
-5. 💪 Opened PR [#9](https://github.com/P8labs/trackion/pull/9) in [P8labs/trackion](https://github.com/P8labs/trackion)
+1. 🎉 Merged PR [#11](https://github.com/P8labs/trackion/pull/11) in [P8labs/trackion](https://github.com/P8labs/trackion)
+2. 💪 Opened PR [#11](https://github.com/P8labs/trackion/pull/11) in [P8labs/trackion](https://github.com/P8labs/trackion)
+3. ℹ️ Assigned PR [#11](https://github.com/P8labs/trackion/pull/11) in [P8labs/trackion](https://github.com/P8labs/trackion)
+4. ℹ️ Assigned PR [#9](https://github.com/P8labs/trackion/pull/9) in [P8labs/trackion](https://github.com/P8labs/trackion)
+5. ❗ Opened issue [#10](https://github.com/P8labs/trackion/issues/10) in [P8labs/trackion](https://github.com/P8labs/trackion)
 <!--END_SECTION:activity-->
 
 #### GitHub Stats
