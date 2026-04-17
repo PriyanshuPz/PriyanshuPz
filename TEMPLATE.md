@@ -8,11 +8,11 @@ Since then, I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** iss
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#13](https://github.com/P8labs/trackion/issues/13) in [P8labs/trackion](https://github.com/P8labs/trackion)
-2. ❗ Opened issue [#1](https://github.com/P8labs/tsbin/issues/1) in [P8labs/tsbin](https://github.com/P8labs/tsbin)
-3. ❌ Closed PR [#1](https://github.com/P8labs/openflag/pull/1) in [P8labs/openflag](https://github.com/P8labs/openflag)
-4. ❗ Opened issue [#1](https://github.com/P8labs/ospnet/issues/1) in [P8labs/ospnet](https://github.com/P8labs/ospnet)
-5. 💪 Opened PR [#1](https://github.com/P8labs/openflag/pull/1) in [P8labs/openflag](https://github.com/P8labs/openflag)
+1. ℹ️ Unassigned PR [#14](https://github.com/P8labs/trackion/pull/14) in [P8labs/trackion](https://github.com/P8labs/trackion)
+2. ℹ️ Assigned PR [#14](https://github.com/P8labs/trackion/pull/14) in [P8labs/trackion](https://github.com/P8labs/trackion)
+3. 💪 Opened PR [#14](https://github.com/P8labs/trackion/pull/14) in [P8labs/trackion](https://github.com/P8labs/trackion)
+4. ❗ Opened issue [#13](https://github.com/P8labs/trackion/issues/13) in [P8labs/trackion](https://github.com/P8labs/trackion)
+5. ❗ Opened issue [#1](https://github.com/P8labs/tsbin/issues/1) in [P8labs/tsbin](https://github.com/P8labs/tsbin)
 <!--END_SECTION:activity-->
 
 #### GitHub Stats
