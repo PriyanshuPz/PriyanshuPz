@@ -30,10 +30,10 @@ Since then, I have pushed **2111** commits, opened **255** issues, submitted **3
   </tr>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=priyanshupz&theme=dark&hide_border=true"  />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshupz&theme=dark&hide_border=true"  />
     </td>
     <td>
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/priyanshupz?cardType=octocat&theme=dark&preferLogin=false&Border=%23DD272700" />
+    <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuPz&theme=dark&show_icons=true&hide_border=true&count_private=true" />
   </a>
     </td>
   </tr>
