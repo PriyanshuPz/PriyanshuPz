@@ -2,17 +2,17 @@
 
 I joined GitHub **3** years ago. And like understanding how systems really work and turning rough thoughts into simple, usable tools.
 
-Since then, I have pushed **2115** commits, opened **255** issues, submitted **374** pull requests, received **11** stars across **56** personal projects and contributed to **48** public repositories.
+Since then, I have pushed **1995** commits, opened **253** issues, submitted **375** pull requests, received **11** stars across **57** personal projects and contributed to **48** public repositories.
 
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#4](https://github.com/P8labs/stock-charts/issues/4) in [P8labs/stock-charts](https://github.com/P8labs/stock-charts)
-2. 🎉 Merged PR [#5](https://github.com/P8labs/stock-charts/pull/5) in [P8labs/stock-charts](https://github.com/P8labs/stock-charts)
-3. 💪 Opened PR [#5](https://github.com/P8labs/stock-charts/pull/5) in [P8labs/stock-charts](https://github.com/P8labs/stock-charts)
-4. 🎉 Merged PR [#14](https://github.com/P8labs/trackion/pull/14) in [P8labs/trackion](https://github.com/P8labs/trackion)
-5. 🔒 Closed issue [#13](https://github.com/P8labs/trackion/issues/13) in [P8labs/trackion](https://github.com/P8labs/trackion)
+1. 🎉 Merged PR [#2](https://github.com/PriyanshuPz/PriyanshuPz/pull/2) in [PriyanshuPz/PriyanshuPz](https://github.com/PriyanshuPz/PriyanshuPz)
+2. 💪 Opened PR [#2](https://github.com/PriyanshuPz/PriyanshuPz/pull/2) in [PriyanshuPz/PriyanshuPz](https://github.com/PriyanshuPz/PriyanshuPz)
+3. 🔒 Closed issue [#4](https://github.com/P8labs/stock-charts/issues/4) in [P8labs/stock-charts](https://github.com/P8labs/stock-charts)
+4. 🎉 Merged PR [#5](https://github.com/P8labs/stock-charts/pull/5) in [P8labs/stock-charts](https://github.com/P8labs/stock-charts)
+5. 💪 Opened PR [#5](https://github.com/P8labs/stock-charts/pull/5) in [P8labs/stock-charts](https://github.com/P8labs/stock-charts)
 <!--END_SECTION:activity-->
 
 #### GitHub Stats
