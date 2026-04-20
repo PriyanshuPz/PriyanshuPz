@@ -8,11 +8,11 @@ Since then, I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** iss
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#4](https://github.com/P8labs/stock-charts/issues/4) in [P8labs/stock-charts](https://github.com/P8labs/stock-charts)
-2. 🎉 Merged PR [#5](https://github.com/P8labs/stock-charts/pull/5) in [P8labs/stock-charts](https://github.com/P8labs/stock-charts)
-3. 💪 Opened PR [#5](https://github.com/P8labs/stock-charts/pull/5) in [P8labs/stock-charts](https://github.com/P8labs/stock-charts)
-4. 🎉 Merged PR [#14](https://github.com/P8labs/trackion/pull/14) in [P8labs/trackion](https://github.com/P8labs/trackion)
-5. 🔒 Closed issue [#13](https://github.com/P8labs/trackion/issues/13) in [P8labs/trackion](https://github.com/P8labs/trackion)
+1. 🎉 Merged PR [#2](https://github.com/PriyanshuPz/PriyanshuPz/pull/2) in [PriyanshuPz/PriyanshuPz](https://github.com/PriyanshuPz/PriyanshuPz)
+2. 💪 Opened PR [#2](https://github.com/PriyanshuPz/PriyanshuPz/pull/2) in [PriyanshuPz/PriyanshuPz](https://github.com/PriyanshuPz/PriyanshuPz)
+3. 🔒 Closed issue [#4](https://github.com/P8labs/stock-charts/issues/4) in [P8labs/stock-charts](https://github.com/P8labs/stock-charts)
+4. 🎉 Merged PR [#5](https://github.com/P8labs/stock-charts/pull/5) in [P8labs/stock-charts](https://github.com/P8labs/stock-charts)
+5. 💪 Opened PR [#5](https://github.com/P8labs/stock-charts/pull/5) in [P8labs/stock-charts](https://github.com/P8labs/stock-charts)
 <!--END_SECTION:activity-->
 
 #### GitHub Stats
