@@ -8,11 +8,11 @@ Since then, I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** iss
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#2](https://github.com/P8labs/ospnet/issues/2) in [P8labs/ospnet](https://github.com/P8labs/ospnet)
-2. ❗ Opened issue [#21](https://github.com/P8labs/trackion/issues/21) in [P8labs/trackion](https://github.com/P8labs/trackion)
-3. 🎉 Merged PR [#1372](https://github.com/hackclub/dinosaurs/pull/1372) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-4. 🎉 Merged PR [#20](https://github.com/P8labs/trackion/pull/20) in [P8labs/trackion](https://github.com/P8labs/trackion)
-5. 💪 Opened PR [#20](https://github.com/P8labs/trackion/pull/20) in [P8labs/trackion](https://github.com/P8labs/trackion)
+1. ❗ Opened issue [#2](https://github.com/P8labs/tsbin/issues/2) in [P8labs/tsbin](https://github.com/P8labs/tsbin)
+2. ❌ Closed PR [#7](https://github.com/wakatime/obsidian-wakatime/pull/7) in [wakatime/obsidian-wakatime](https://github.com/wakatime/obsidian-wakatime)
+3. ❗ Opened issue [#2](https://github.com/P8labs/ospnet/issues/2) in [P8labs/ospnet](https://github.com/P8labs/ospnet)
+4. ❗ Opened issue [#21](https://github.com/P8labs/trackion/issues/21) in [P8labs/trackion](https://github.com/P8labs/trackion)
+5. 🎉 Merged PR [#1372](https://github.com/hackclub/dinosaurs/pull/1372) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
 <!--END_SECTION:activity-->
 
 #### GitHub Stats
