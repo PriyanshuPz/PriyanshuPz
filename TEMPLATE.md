@@ -14,7 +14,7 @@ Since then, I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** iss
 2. ❗ Opened issue [#2](https://github.com/P8labs/openflag/issues/2) in [P8labs/openflag](https://github.com/P8labs/openflag)
 3. ❗ Opened issue [#2](https://github.com/P8labs/tsbin/issues/2) in [P8labs/tsbin](https://github.com/P8labs/tsbin)
 4. ❌ Closed PR [#7](https://github.com/wakatime/obsidian-wakatime/pull/7) in [wakatime/obsidian-wakatime](https://github.com/wakatime/obsidian-wakatime)
-5. ❗ Opened issue [#2](https://github.com/P8labs/ospnet/issues/2) in [P8labs/ospnet](https://github.com/P8labs/ospnet)
+5. ❗ Opened issue [#2](https://github.com/P8labs/legacy-ospnet/issues/2) in [P8labs/legacy-ospnet](https://github.com/P8labs/legacy-ospnet)
 <!--END_SECTION:activity-->
 
 #### GitHub Stats
