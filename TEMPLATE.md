@@ -10,11 +10,11 @@ Since then, I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** iss
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#6](https://github.com/P8labs/dockless/issues/6) in [P8labs/dockless](https://github.com/P8labs/dockless)
-2. ❗ Opened issue [#54](https://github.com/P8labs/StatStream/issues/54) in [P8labs/StatStream](https://github.com/P8labs/StatStream)
-3. ❗ Opened issue [#2](https://github.com/P8labs/openflag/issues/2) in [P8labs/openflag](https://github.com/P8labs/openflag)
-4. ❗ Opened issue [#2](https://github.com/P8labs/tsbin/issues/2) in [P8labs/tsbin](https://github.com/P8labs/tsbin)
-5. ❌ Closed PR [#7](https://github.com/wakatime/obsidian-wakatime/pull/7) in [wakatime/obsidian-wakatime](https://github.com/wakatime/obsidian-wakatime)
+1. 💪 Opened PR [#22](https://github.com/P8labs/trackion/pull/22) in [P8labs/trackion](https://github.com/P8labs/trackion)
+2. ❗ Opened issue [#6](https://github.com/P8labs/dockless/issues/6) in [P8labs/dockless](https://github.com/P8labs/dockless)
+3. ❗ Opened issue [#54](https://github.com/P8labs/StatStream/issues/54) in [P8labs/StatStream](https://github.com/P8labs/StatStream)
+4. ❗ Opened issue [#2](https://github.com/P8labs/openflag/issues/2) in [P8labs/openflag](https://github.com/P8labs/openflag)
+5. ❗ Opened issue [#2](https://github.com/P8labs/tsbin/issues/2) in [P8labs/tsbin](https://github.com/P8labs/tsbin)
 <!--END_SECTION:activity-->
 
 #### GitHub Stats
