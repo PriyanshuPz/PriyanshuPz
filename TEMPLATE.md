@@ -10,11 +10,11 @@ Since then, I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** iss
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#22](https://github.com/P8labs/trackion/pull/22) in [P8labs/trackion](https://github.com/P8labs/trackion)
-2. ❗ Opened issue [#6](https://github.com/P8labs/dockless/issues/6) in [P8labs/dockless](https://github.com/P8labs/dockless)
-3. ❗ Opened issue [#54](https://github.com/P8labs/StatStream/issues/54) in [P8labs/StatStream](https://github.com/P8labs/StatStream)
-4. ❗ Opened issue [#2](https://github.com/P8labs/openflag/issues/2) in [P8labs/openflag](https://github.com/P8labs/openflag)
-5. ❗ Opened issue [#2](https://github.com/P8labs/tsbin/issues/2) in [P8labs/tsbin](https://github.com/P8labs/tsbin)
+1. 🎉 Merged PR [#22](https://github.com/P8labs/trackion/pull/22) in [P8labs/trackion](https://github.com/P8labs/trackion)
+2. 💪 Opened PR [#22](https://github.com/P8labs/trackion/pull/22) in [P8labs/trackion](https://github.com/P8labs/trackion)
+3. ❗ Opened issue [#6](https://github.com/P8labs/dockless/issues/6) in [P8labs/dockless](https://github.com/P8labs/dockless)
+4. ❗ Opened issue [#54](https://github.com/P8labs/StatStream/issues/54) in [P8labs/StatStream](https://github.com/P8labs/StatStream)
+5. ❗ Opened issue [#2](https://github.com/P8labs/openflag/issues/2) in [P8labs/openflag](https://github.com/P8labs/openflag)
 <!--END_SECTION:activity-->
 
 #### GitHub Stats
