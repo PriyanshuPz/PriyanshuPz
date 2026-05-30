@@ -4,17 +4,17 @@ I joined GitHub **3** years ago. And like understanding how systems really work 
 
 I operates and maintain [**P8labs**](https://p8labs.in) and all it's products. It is a place where I make projects for real world problems and help businesses to by building custom solutions. If it sound relatable contact to join the mission!.
 
-Since then, I have pushed **2171** commits, opened **259** issues, submitted **381** pull requests, received **11** stars across **57** personal projects and contributed to **50** public repositories.
+Since then, I have pushed **2171** commits, opened **260** issues, submitted **381** pull requests, received **11** stars across **57** personal projects and contributed to **50** public repositories.
 
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#22](https://github.com/P8labs/trackion/pull/22) in [P8labs/trackion](https://github.com/P8labs/trackion)
-2. 💪 Opened PR [#22](https://github.com/P8labs/trackion/pull/22) in [P8labs/trackion](https://github.com/P8labs/trackion)
-3. ❗ Opened issue [#6](https://github.com/P8labs/dockless/issues/6) in [P8labs/dockless](https://github.com/P8labs/dockless)
-4. ❗ Opened issue [#54](https://github.com/P8labs/StatStream/issues/54) in [P8labs/StatStream](https://github.com/P8labs/StatStream)
-5. ❗ Opened issue [#2](https://github.com/P8labs/openflag/issues/2) in [P8labs/openflag](https://github.com/P8labs/openflag)
+1. ❗ Opened issue [#23](https://github.com/P8labs/trackion/issues/23) in [P8labs/trackion](https://github.com/P8labs/trackion)
+2. 🎉 Merged PR [#22](https://github.com/P8labs/trackion/pull/22) in [P8labs/trackion](https://github.com/P8labs/trackion)
+3. 💪 Opened PR [#22](https://github.com/P8labs/trackion/pull/22) in [P8labs/trackion](https://github.com/P8labs/trackion)
+4. ❗ Opened issue [#6](https://github.com/P8labs/dockless/issues/6) in [P8labs/dockless](https://github.com/P8labs/dockless)
+5. ❗ Opened issue [#54](https://github.com/P8labs/StatStream/issues/54) in [P8labs/StatStream](https://github.com/P8labs/StatStream)
 <!--END_SECTION:activity-->
 
 #### GitHub Stats
