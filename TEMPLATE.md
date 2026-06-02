@@ -10,11 +10,11 @@ Since then, I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** iss
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#25](https://github.com/P8labs/trackion/issues/25) in [P8labs/trackion](https://github.com/P8labs/trackion)
-2. 💪 Opened PR [#24](https://github.com/P8labs/trackion/pull/24) in [P8labs/trackion](https://github.com/P8labs/trackion)
-3. ❗ Opened issue [#23](https://github.com/P8labs/trackion/issues/23) in [P8labs/trackion](https://github.com/P8labs/trackion)
-4. 🎉 Merged PR [#22](https://github.com/P8labs/trackion/pull/22) in [P8labs/trackion](https://github.com/P8labs/trackion)
-5. 💪 Opened PR [#22](https://github.com/P8labs/trackion/pull/22) in [P8labs/trackion](https://github.com/P8labs/trackion)
+1. 🎉 Merged PR [#24](https://github.com/P8labs/trackion/pull/24) in [P8labs/trackion](https://github.com/P8labs/trackion)
+2. ❗ Opened issue [#26](https://github.com/P8labs/trackion/issues/26) in [P8labs/trackion](https://github.com/P8labs/trackion)
+3. ❗ Opened issue [#25](https://github.com/P8labs/trackion/issues/25) in [P8labs/trackion](https://github.com/P8labs/trackion)
+4. 💪 Opened PR [#24](https://github.com/P8labs/trackion/pull/24) in [P8labs/trackion](https://github.com/P8labs/trackion)
+5. ❗ Opened issue [#23](https://github.com/P8labs/trackion/issues/23) in [P8labs/trackion](https://github.com/P8labs/trackion)
 <!--END_SECTION:activity-->
 
 #### GitHub Stats
