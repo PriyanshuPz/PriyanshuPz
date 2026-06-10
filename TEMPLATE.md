@@ -10,11 +10,11 @@ Since then, I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** iss
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#27](https://github.com/P8labs/trackion/pull/27) in [P8labs/trackion](https://github.com/P8labs/trackion)
-2. ❗ Opened issue [#7](https://github.com/P8labs/dockless/issues/7) in [P8labs/dockless](https://github.com/P8labs/dockless)
-3. ❗ Opened issue [#3](https://github.com/P8labs/sso-service/issues/3) in [P8labs/sso-service](https://github.com/P8labs/sso-service)
-4. 🎉 Merged PR [#24](https://github.com/P8labs/trackion/pull/24) in [P8labs/trackion](https://github.com/P8labs/trackion)
-5. ❗ Opened issue [#26](https://github.com/P8labs/trackion/issues/26) in [P8labs/trackion](https://github.com/P8labs/trackion)
+1. 💪 Opened PR [#28](https://github.com/P8labs/trackion/pull/28) in [P8labs/trackion](https://github.com/P8labs/trackion)
+2. 💪 Opened PR [#27](https://github.com/P8labs/trackion/pull/27) in [P8labs/trackion](https://github.com/P8labs/trackion)
+3. ❗ Opened issue [#7](https://github.com/P8labs/dockless/issues/7) in [P8labs/dockless](https://github.com/P8labs/dockless)
+4. ❗ Opened issue [#3](https://github.com/P8labs/sso-service/issues/3) in [P8labs/sso-service](https://github.com/P8labs/sso-service)
+5. 🎉 Merged PR [#24](https://github.com/P8labs/trackion/pull/24) in [P8labs/trackion](https://github.com/P8labs/trackion)
 <!--END_SECTION:activity-->
 
 #### GitHub Stats
