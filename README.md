@@ -4,17 +4,17 @@ I joined GitHub **3** years ago. And like understanding how systems really work 
 
 I operates and maintain [**P8labs**](https://p8labs.in) and all it's products. It is a place where I make projects for real world problems and help businesses to by building custom solutions. If it sound relatable contact to join the mission!.
 
-Since then, I have pushed **2178** commits, opened **264** issues, submitted **384** pull requests, received **11** stars across **57** personal projects and contributed to **52** public repositories.
+Since then, I have pushed **2178** commits, opened **264** issues, submitted **385** pull requests, received **11** stars across **57** personal projects and contributed to **52** public repositories.
 
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#28](https://github.com/P8labs/trackion/pull/28) in [P8labs/trackion](https://github.com/P8labs/trackion)
-2. 💪 Opened PR [#27](https://github.com/P8labs/trackion/pull/27) in [P8labs/trackion](https://github.com/P8labs/trackion)
-3. ❗ Opened issue [#7](https://github.com/P8labs/dockless/issues/7) in [P8labs/dockless](https://github.com/P8labs/dockless)
-4. ❗ Opened issue [#3](https://github.com/P8labs/sso-service/issues/3) in [P8labs/sso-service](https://github.com/P8labs/sso-service)
-5. 🎉 Merged PR [#24](https://github.com/P8labs/trackion/pull/24) in [P8labs/trackion](https://github.com/P8labs/trackion)
+1. 🎉 Merged PR [#29](https://github.com/P8labs/trackion/pull/29) in [P8labs/trackion](https://github.com/P8labs/trackion)
+2. 💪 Opened PR [#29](https://github.com/P8labs/trackion/pull/29) in [P8labs/trackion](https://github.com/P8labs/trackion)
+3. 🔒 Closed issue [#25](https://github.com/P8labs/trackion/issues/25) in [P8labs/trackion](https://github.com/P8labs/trackion)
+4. 🎉 Merged PR [#28](https://github.com/P8labs/trackion/pull/28) in [P8labs/trackion](https://github.com/P8labs/trackion)
+5. 💪 Opened PR [#28](https://github.com/P8labs/trackion/pull/28) in [P8labs/trackion](https://github.com/P8labs/trackion)
 <!--END_SECTION:activity-->
 
 #### GitHub Stats
