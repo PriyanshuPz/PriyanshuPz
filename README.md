@@ -4,7 +4,7 @@ I joined GitHub **3** years ago. And like understanding how systems really work 
 
 I operates and maintain [**P8labs**](https://p8labs.in) and all it's products. It is a place where I make projects for real world problems and help businesses to by building custom solutions. If it sound relatable contact to join the mission!.
 
-Since then, I have pushed **2273** commits, opened **267** issues, submitted **387** pull requests, received **12** stars across **57** personal projects and contributed to **57** public repositories.
+Since then, I have pushed **2252** commits, opened **267** issues, submitted **387** pull requests, received **12** stars across **57** personal projects and contributed to **54** public repositories.
 
 #### :zap: Recent Activity
 
