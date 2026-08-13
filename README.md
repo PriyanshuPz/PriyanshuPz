@@ -4,17 +4,17 @@ I joined GitHub **3** years ago. And like understanding how systems really work 
 
 I operates and maintain [**P8labs**](https://p8labs.in) and all it's products. It is a place where I make projects for real world problems and help businesses to by building custom solutions. If it sound relatable contact to join the mission!.
 
-Since then, I have pushed **2285** commits, opened **266** issues, submitted **383** pull requests, received **12** stars across **57** personal projects and contributed to **52** public repositories.
+Since then, I have pushed **2285** commits, opened **266** issues, submitted **383** pull requests, received **12** stars across **57** personal projects and contributed to **51** public repositories.
 
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/PriyanshuPz/portfolio/pull/1) in [PriyanshuPz/portfolio](https://github.com/PriyanshuPz/portfolio)
-2. 💪 Opened PR [#1](https://github.com/PriyanshuPz/portfolio/pull/1) in [PriyanshuPz/portfolio](https://github.com/PriyanshuPz/portfolio)
-3. 🔒 Closed issue [#2](https://github.com/P8labs/openflag/issues/2) in [P8labs/openflag](https://github.com/P8labs/openflag)
-4. 🔒 Closed issue [#3](https://github.com/P8labs/openflag/issues/3) in [P8labs/openflag](https://github.com/P8labs/openflag)
-5. ❗ Opened issue [#3](https://github.com/P8labs/openflag/issues/3) in [P8labs/openflag](https://github.com/P8labs/openflag)
+1. 🔒 Closed issue [#7](https://github.com/P8labs/dockless/issues/7) in [P8labs/dockless](https://github.com/P8labs/dockless)
+2. 🔒 Closed issue [#112](https://github.com/vkop007/GDriveDatabase/issues/112) in [vkop007/GDriveDatabase](https://github.com/vkop007/GDriveDatabase)
+3. 🎉 Merged PR [#1](https://github.com/PriyanshuPz/portfolio/pull/1) in [PriyanshuPz/portfolio](https://github.com/PriyanshuPz/portfolio)
+4. 💪 Opened PR [#1](https://github.com/PriyanshuPz/portfolio/pull/1) in [PriyanshuPz/portfolio](https://github.com/PriyanshuPz/portfolio)
+5. 🔒 Closed issue [#2](https://github.com/P8labs/openflag/issues/2) in [P8labs/openflag](https://github.com/P8labs/openflag)
 <!--END_SECTION:activity-->
 
 #### GitHub Stats
