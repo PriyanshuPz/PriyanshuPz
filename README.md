@@ -10,10 +10,10 @@ Since then, I have pushed **2292** commits, opened **266** issues, submitted **3
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#7](https://github.com/P8labs/dockless/issues/7) in [P8labs/dockless](https://github.com/P8labs/dockless)
-2. 🔒 Closed issue [#112](https://github.com/vkop007/GDriveDatabase/issues/112) in [vkop007/GDriveDatabase](https://github.com/vkop007/GDriveDatabase)
-3. 🎉 Merged PR [#1](https://github.com/PriyanshuPz/portfolio/pull/1) in [PriyanshuPz/portfolio](https://github.com/PriyanshuPz/portfolio)
-4. 💪 Opened PR [#1](https://github.com/PriyanshuPz/portfolio/pull/1) in [PriyanshuPz/portfolio](https://github.com/PriyanshuPz/portfolio)
+1. 🗣 Commented on [#2](https://github.com/P8labs/tsbin-mail/issues/2#issuecomment-5472837228) in [P8labs/tsbin-mail](https://github.com/P8labs/tsbin-mail)
+2. 🗣 Commented on [#2](https://github.com/P8labs/tsbin-mail/issues/2#issuecomment-5472836267) in [P8labs/tsbin-mail](https://github.com/P8labs/tsbin-mail)
+3. 🔒 Closed issue [#7](https://github.com/P8labs/dockless/issues/7) in [P8labs/dockless](https://github.com/P8labs/dockless)
+4. 🔒 Closed issue [#112](https://github.com/vkop007/GDriveDatabase/issues/112) in [vkop007/GDriveDatabase](https://github.com/vkop007/GDriveDatabase)
 5. 🔒 Closed issue [#2](https://github.com/P8labs/openflag/issues/2) in [P8labs/openflag](https://github.com/P8labs/openflag)
 <!--END_SECTION:activity-->
 
